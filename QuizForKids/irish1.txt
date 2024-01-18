@@ -1,0 +1,5 @@
+Gaeilge,irish
+Madra,dog
+Cupán,cup
+Cathaoir,chair
+Cara,friend
